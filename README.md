@@ -1,5 +1,5 @@
 <div align="center">
-	<h1 color="blue"> Hi my name is Lucas Feuser </h1>
+	<h1 color="blue"> Hi, my name is Lucas Feuser </h1>
 	<h2 color="red"> And i am student of Software Enginer </h2>
 	<h3 color="33FF39"> Begginer developer guy </h3>
 	<h4> My language is C# </h4>
